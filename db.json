@@ -1,0 +1,28 @@
+{
+  "goods": [
+    {
+      "title": "defrde",
+      "description": "ds",
+      "image": "ds",
+      "price": "ds",
+      "id": 1
+    },
+    {
+      "title": "tg5hy6utrr",
+      "description": "rgnth",
+      "image": "bgnthyj",
+      "price": "brtnhyjm",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
